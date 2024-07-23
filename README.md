@@ -2,9 +2,10 @@
 Danh sách nguồn tài nguyên học Machine Learning
 
 - [Awesome Machine Learning](#awesome-machine-learning)
-  - [Mathematics](#mathematics-for-machine-learning)
+  - [Mathematics for Machine Learning](#mathematics-for-machine-learning)
       - [Videos](#videos)
       - [Books](#books)
+      - [Papers](#mml-papers)
         
 ## Mathematics for Machine Learning
 
@@ -17,5 +18,8 @@ Danh sách nguồn tài nguyên học Machine Learning
 ### Books
 * [Mathematics for Machine Learning](https://mml-book.github.io/)
 
+### MML Papers
+* [Mathematics for Machine Learning and Data Science: Optimization with Mathematica Applications](https://arxiv.org/abs/2302.05964)
 
-## Machine Learning
+
+
