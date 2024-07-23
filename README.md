@@ -21,5 +21,5 @@ Danh sách nguồn tài nguyên học Machine Learning
 ### MML Papers
 * [Mathematics for Machine Learning and Data Science: Optimization with Mathematica Applications](https://arxiv.org/abs/2302.05964)
 
-
+Kho lưu trữ [Awesome Mathematics] sẽ sớm được cập nhật để phục vụ học tập nghiên cứu sau hơn trong lĩnh vực Toán học. \
 
