@@ -1,6 +1,11 @@
 # Awesome Machine Learning
 Danh sách nguồn tài nguyên học Machine Learning
 
+- [Awesome Machine Learning](#awesome-machine-learning)
+  - [Mathematics](#mathematics)
+      - [Videos](#videos)
+      - [Books](#books)
+        
 ## Mathematics
 
 ### Videos
