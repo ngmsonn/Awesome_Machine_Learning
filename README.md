@@ -33,3 +33,6 @@ Kho lưu trữ [Awesome Mathematics] sẽ sớm được cập nhật để ph�
 
  ### Libraries
 * [cleanlab](https://github.com/cleanlab/cleanlab)
+
+### Courses
+* [Introduction to Data-Centric AI - MIT](https://dcai.csail.mit.edu/resources/)
