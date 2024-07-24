@@ -6,6 +6,9 @@ Danh sách nguồn tài nguyên học Machine Learning
       - [Videos](#videos)
       - [Books](#books)
       - [Papers](#mml-papers)
+  - [Data Cleaning](#data-cleaning)
+      - [Books](#books)
+      - [Libraries](#libraries)
         
 ## Mathematics for Machine Learning
 
@@ -23,3 +26,10 @@ Danh sách nguồn tài nguyên học Machine Learning
 
 Kho lưu trữ [Awesome Mathematics] sẽ sớm được cập nhật để phục vụ học tập nghiên cứu sau hơn trong lĩnh vực Toán học.
 
+## Data Cleaning
+
+### Books
+* [Best Practices in Data Cleaning A Complete Guide to Everything You Need to Do Before and After Collecting Your Data](https://methods.sagepub.com/book/best-practices-in-data-cleaning)
+
+ ### Libraries
+* [cleanlab](https://github.com/cleanlab/cleanlab)
