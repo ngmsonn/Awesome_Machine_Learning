@@ -9,6 +9,7 @@ Danh sách nguồn tài nguyên học Machine Learning
   - [Data Cleaning](#data-cleaning)
       - [Books](#books)
       - [Libraries](#libraries)
+  - [Others](#others)
         
 ## Mathematics for Machine Learning
 
@@ -36,3 +37,7 @@ Kho lưu trữ [Awesome Mathematics] sẽ sớm được cập nhật để ph�
 
 ### Courses
 * [Introduction to Data-Centric AI - MIT](https://dcai.csail.mit.edu/resources/)
+
+
+## Others
+* [Github - mlvideo](https://github.com/dustinvtran/ml-videos)
