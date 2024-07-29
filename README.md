@@ -38,6 +38,8 @@ Kho lưu trữ [Awesome Mathematics] sẽ sớm được cập nhật để ph�
 * [Youtube- mathematicalmonk - Machine Learning](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
 * [Youtube - Machine Learning Course | Nando de Freitas at UBC in 2013](https://www.youtube.com/playlist?list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6)
 * [Youtube - Machine Learning Theory](https://www.youtube.com/playlist?list=PLPW2keNyw-usgvmR7FTQ3ZRjfLs5jT4BO)
+* [Youtube - Stanford CS229M: Machine Learning Theory - Fall 2021](https://www.youtube.com/playlist?list=PLoROMvodv4rP8nAmISxFINlGKSK4rbLKh)
+  
 ## Others
 * [Github - mlvideo](https://github.com/dustinvtran/ml-videos)
 
