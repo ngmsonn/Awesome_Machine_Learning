@@ -40,6 +40,7 @@ Kho lưu trữ [Awesome Mathematics] sẽ sớm được cập nhật để ph�
 * [Youtube - Machine Learning Theory](https://www.youtube.com/playlist?list=PLPW2keNyw-usgvmR7FTQ3ZRjfLs5jT4BO)
 * [Youtube - Stanford CS229M: Machine Learning Theory - Fall 2021](https://www.youtube.com/playlist?list=PLoROMvodv4rP8nAmISxFINlGKSK4rbLKh)
 * [Youtube - Introduction to Deep Learning Theory | MITCBMM](https://www.youtube.com/watch?v=pad023JIXVA)
+* [Youtube - Tübingen Machine Learning](https://www.youtube.com/c/T%C3%BCbingenML/playlists)
   
 ## Others
 * [Github - mlvideo](https://github.com/dustinvtran/ml-videos)
