@@ -26,6 +26,7 @@ Danh sách nguồn tài nguyên học Machine Learning
 Kho lưu trữ [Awesome Mathematics] sẽ sớm được cập nhật để phục vụ học tập nghiên cứu sau hơn trong lĩnh vực Toán học.
 
 ## Data Cleaning
+
 ### Books
 * [Best Practices in Data Cleaning A Complete Guide to Everything You Need to Do Before and After Collecting Your Data](https://methods.sagepub.com/book/best-practices-in-data-cleaning)
  ### Libraries
@@ -33,7 +34,10 @@ Kho lưu trữ [Awesome Mathematics] sẽ sớm được cập nhật để ph�
 ### Courses
 * [Introduction to Data-Centric AI - MIT](https://dcai.csail.mit.edu/resources/)
 
+## Courses
+* [Youtube- mathematicalmonk - Machine Learning](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
+* [Youtube - Machine learning course taught by Nando de Freitas at UBC in 2013](https://www.youtube.com/playlist?list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6)
 
 ## Others
 * [Github - mlvideo](https://github.com/dustinvtran/ml-videos)
-* [Youtube- mathematicalmonk - Machine Learning](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
+
