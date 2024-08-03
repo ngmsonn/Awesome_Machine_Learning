@@ -41,6 +41,8 @@ Kho lưu trữ [Awesome Mathematics] sẽ sớm được cập nhật để ph�
 
 ## Semi-supervised Learning
 
+## Reinforcement Learning
+
 ## Deep Learning
 
 
