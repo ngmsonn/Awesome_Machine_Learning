@@ -35,6 +35,15 @@ Kho lưu trữ [Awesome Mathematics] sẽ sớm được cập nhật để ph�
 ### Courses
 * [Introduction to Data-Centric AI - MIT](https://dcai.csail.mit.edu/resources/)
 
+## Supervised Learning
+
+## Unsupervised Learning
+
+## Semi-supervised Learning
+
+## Deep Learning
+
+
 ## Courses
 * [Youtube- mathematicalmonk - Machine Learning](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
 * [Youtube - Machine Learning Course | Nando de Freitas at UBC in 2013](https://www.youtube.com/playlist?list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6)
