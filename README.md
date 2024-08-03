@@ -9,6 +9,7 @@ Danh sách nguồn tài nguyên học Machine Learning
   - [Data Cleaning](#data-cleaning)
       - [Books](#books)
       - [Libraries](#libraries)
+  - [Supervised Learning](#supervised-learning)
   - [Courses](#courses)
   - [Others](#others)
         
