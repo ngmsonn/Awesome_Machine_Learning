@@ -12,6 +12,7 @@ Danh sách nguồn tài nguyên học Machine Learning
   - [Supervised Learning](#supervised-learning)
   - [Unsupervised Learning](#unsupervised-learning)
   - [Semi-supervised Learning](#semi-supervised-learning)
+  - [Deep Learning](#deep-learning)
   - [Courses](#courses)
   - [Others](#others)
         
