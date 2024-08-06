@@ -46,6 +46,8 @@ Kho lưu trữ [Awesome Mathematics] sẽ sớm được cập nhật để ph�
 ## Semi-supervised Learning
 
 ## Reinforcement Learning
+### Papers
+* [How to Choose a Reinforcement-Learning Algorithm](https://arxiv.org/pdf/2407.20917)
 
 ## Deep Learning
 
