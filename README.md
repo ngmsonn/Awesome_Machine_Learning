@@ -1,5 +1,5 @@
 # Awesome Machine Learning
-Danh sách nguồn tài nguyên học Machine Learning
+Awesome resources for learning, practicing, and researching Machine Learning.
 
 - [Awesome Machine Learning](#awesome-machine-learning)
   - [Mathematics for Machine Learning](#mathematics-for-machine-learning)
