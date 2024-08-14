@@ -23,6 +23,7 @@ Awesome resources for learning, practicing, and researching Machine Learning.
 * [ETH Zuric Mathematics of Machine Learning](https://www.youtube.com/playlist?list=PLiud-28tsatL0MbfJFQQS7MYkrFrujCYp)
 * [Mathematics for Machine Learning - Linear Algebra](https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3)
 * [Mathematics for Machine Learning - Multivariate Calculus](https://www.youtube.com/playlist?list=PLiiljHvN6z193BBzS0Ln8NnqQmzimTW23)
+* [MIT: Machine Learning 6.036](https://www.youtube.com/playlist?list=PLxC_ffO4q_rW0bqQB80_vcQB09HOA3ClV)
 ### Books
 * [Mathematics for Machine Learning](https://mml-book.github.io/)
 ### MML Papers
