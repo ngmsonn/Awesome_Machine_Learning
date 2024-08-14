@@ -23,7 +23,7 @@ Awesome resources for learning, practicing, and researching Machine Learning.
 * [ETH Zuric Mathematics of Machine Learning](https://www.youtube.com/playlist?list=PLiud-28tsatL0MbfJFQQS7MYkrFrujCYp)
 * [Mathematics for Machine Learning - Linear Algebra](https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3)
 * [Mathematics for Machine Learning - Multivariate Calculus](https://www.youtube.com/playlist?list=PLiiljHvN6z193BBzS0Ln8NnqQmzimTW23)
-* [MIT: Machine Learning 6.036](https://www.youtube.com/playlist?list=PLxC_ffO4q_rW0bqQB80_vcQB09HOA3ClV)
+
 ### Books
 * [Mathematics for Machine Learning](https://mml-book.github.io/)
 ### MML Papers
@@ -60,7 +60,8 @@ Kho lưu trữ [Awesome Mathematics] sẽ sớm được cập nhật để ph�
 * [Youtube - Stanford CS229M: Machine Learning Theory - Fall 2021](https://www.youtube.com/playlist?list=PLoROMvodv4rP8nAmISxFINlGKSK4rbLKh)
 * [Youtube - Introduction to Deep Learning Theory | MITCBMM](https://www.youtube.com/watch?v=pad023JIXVA)
 * [Youtube - Tübingen Machine Learning](https://www.youtube.com/c/T%C3%BCbingenML/playlists)
-  
+* [MIT: Machine Learning 6.036](https://www.youtube.com/playlist?list=PLxC_ffO4q_rW0bqQB80_vcQB09HOA3ClV)
+    
 ## Others
 * [Github - mlvideo](https://github.com/dustinvtran/ml-videos)
 * [Youtube - Machine Learning for Materials](https://www.youtube.com/@aflowtv7667/playlists)
