@@ -62,6 +62,7 @@ Kho lưu trữ [Awesome Mathematics] sẽ sớm được cập nhật để ph�
 * [Youtube - Tübingen Machine Learning](https://www.youtube.com/c/T%C3%BCbingenML/playlists)
 * [MIT: Machine Learning 6.036](https://www.youtube.com/playlist?list=PLxC_ffO4q_rW0bqQB80_vcQB09HOA3ClV)
 * [Advanced machine learning - Autumn 2023](https://www.snn.ru.nl/~bertk/machinelearning/adv_ml.html)
+* [CDS Machine Learning - Autumn 2023](https://www.snn.ru.nl/~bertk/machinelearning/index.html)
 ## Others
 * [Github - mlvideo](https://github.com/dustinvtran/ml-videos)
 * [Youtube - Machine Learning for Materials](https://www.youtube.com/@aflowtv7667/playlists)
