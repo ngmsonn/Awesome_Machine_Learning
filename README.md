@@ -71,3 +71,4 @@ Kho lưu trữ [Awesome Mathematics] sẽ sớm được cập nhật để ph�
 * [Youtube - Machine Learning for Materials](https://www.youtube.com/@aflowtv7667/playlists)
 * [Github - 信息科学与工程学院](https://github.com/tianyilt/ecust-CourseShare/tree/master/%E4%BF%A1%E6%81%AF%E7%A7%91%E5%AD%A6%E4%B8%8E%E5%B7%A5%E7%A8%8B%E5%AD%A6%E9%99%A2)
 * [Github - DataTalk Club](https://github.com/DataTalksClub)
+8 [Github - StarrySky - AI Project ](https://github.com/lvguichen1/StarrySky)
