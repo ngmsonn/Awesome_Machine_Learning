@@ -65,6 +65,7 @@ Kho lưu trữ [Awesome Mathematics] sẽ sớm được cập nhật để ph�
 * [CDS Machine Learning - Autumn 2023](https://www.snn.ru.nl/~bertk/machinelearning/index.html)
 * [Advanced Topics in Machine Learning: Bayesian Machine Learning](https://www.cs.ox.ac.uk/files/11549/main.pdf)
 * [Deep Unsupervised Learning | Berkeley Spring 2024](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPIvv4kgBkvu_uygrV3ut_U)
+* [Youtube - Stanford EE104: Introduction to Machine Learning | 2020](https://www.youtube.com/playlist?list=PLoROMvodv4rN_Uy7_wmS051_q1d6akXmK)
 ## Others
 * [Github - mlvideo](https://github.com/dustinvtran/ml-videos)
 * [Youtube - Machine Learning for Materials](https://www.youtube.com/@aflowtv7667/playlists)
